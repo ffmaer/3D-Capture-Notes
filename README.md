@@ -14,11 +14,9 @@ face-triangular faces
 
 manifold - two faces per edge
 
-questions
+Q: can you apply texture to remesh? Yes
 
-	can you apply texture to remesh?
-  
-	change color
+Q: change mesh color? Yes
   
 sculpt mode
 
