@@ -22,8 +22,12 @@ sculpt mode
 
 pull to show tool names
 
-alt m merge them
+alt + m merge them
 
 edge bridge edge loops
 
 alt b + show one side / cross section box select
+
+merge vertices by distance can remove duplicated vertices
+
+extude will create extra verticies
