@@ -37,3 +37,13 @@ circle select: alt + select
 # week 4
 
 edit more / pose mode / object mode / 
+- pose mode
+- pose clear transform all
+- bone properties
+- bind rig to volume: control p with automatic weight
+- viewport display
+- armature symmetrize
+- preserve volume (in the modifier)
+- key brazier, constant
+- graph editor
+- IK (inverse kinematic constraints): select bone, shift + I
