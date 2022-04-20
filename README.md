@@ -33,3 +33,5 @@ merge vertices by distance can remove duplicated vertices
 extude will create extra verticies
 
 circle select: alt + select
+
+edit more / pose mode / object mode / 
