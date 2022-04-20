@@ -34,4 +34,6 @@ extude will create extra verticies
 
 circle select: alt + select
 
+# week 4
+
 edit more / pose mode / object mode / 
